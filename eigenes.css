@@ -13,3 +13,7 @@ body {
 .left-div {
     margin: 2% auto auto auto;
 }
+
+.firstImage {
+    margin: auto auto -170px auto;
+}
