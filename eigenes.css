@@ -1,3 +1,15 @@
 body {
     padding-top: 50px;
 }
+
+#top-navbar {
+    background-color: #CA9D88;
+}
+
+.white {
+    !important; color: #ffffff;
+}
+
+.left-div {
+    margin: 2% auto auto auto;
+}
