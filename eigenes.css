@@ -17,3 +17,12 @@ body {
 .firstImage {
     margin: 2% auto -35% auto;
 }
+
+.number {
+    color: inherit;
+}
+
+.number:hover {
+    text-decoration: none;
+    color: inherit;
+}
